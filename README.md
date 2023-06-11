@@ -16,4 +16,4 @@ Repository with exercises and projects developed in academic context and self le
   3. [Image Recognation - Convolutional Neural Networks](CNN_ImagesClassification.ipynb)
 
 * ### Hypoteses test:
-  1. [A/B Test](
+  1. [A/B Test](ABtest.ipynb)
